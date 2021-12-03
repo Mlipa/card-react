@@ -1,0 +1,29 @@
+.container {
+  margin: 60px auto;
+  width: 1080px;
+  background: var(--color-theme);
+  display: flex;
+  flex-direction: column;
+}
+.card {
+  height: 825px;
+  width: 621px;
+  border-radius: 15px;
+  background: #ffffff;
+  overflow: hidden;
+  position: relative;
+  margin: 140px auto;
+}
+.header {
+  height: 277px;
+  width: 100%;
+}
+.profile {
+    position: absolute;
+  height: 287px;
+  width: 287px;
+  left: 160px;
+  top: 120px;
+  border-radius: 50%;
+  border: 5px solid #fbf9f9;
+}

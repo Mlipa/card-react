@@ -1,0 +1,18 @@
+.container-descriptions {
+    margin-top: 150px;
+    text-align: center;
+    padding: 0 100px;
+}
+.name {
+    font-size: 48px;
+    font-weight: 700;
+    margin: 6px;
+}
+.reference {
+    font-size: 36px;
+    font-weight: 400;
+}
+.descriptions {
+    font-size: 24px;
+    font-weight: 400;
+}
